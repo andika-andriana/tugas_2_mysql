@@ -1,0 +1,29 @@
+Tugas 2  MySQL
+
+1. Sebutkan pengertian dari tuple, attribute dan relation!
+    - Tuple adalah istilah untuk mendefinisikan sebuah baris dalam sebuah relasi/table pada basis data dengan model relational databases;
+    - Attribute adalah istilah untuk mendefiniskan sebuah kolom dalam sebuah relasi/table pada basis data dengan model relational databases;
+    - Relation adalah istilah dalam untuk mendefinisikan sebuah table atau beberapa table dalam  basis data dengan model relational databases;
+2. Perhatikan Tabel dibawah ini:
+
+    [Tabel: Mahasiswa]
+
+3. Sebutkan attribute dari tabel Mahasiswa!
+    1. NPM
+    2. Nama
+    3. Jenis Kelamin
+    4. Jurusan
+    5. IPK
+4. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+    1. 57119789,Andi Gunawan,Laki-Laki,Akuntansi,3.29
+    2. 51319653,Leshi Puspitasari,Wanita,Hukum,3.60
+    3. 56719451,Maximilianus Anthoni,Laki-Laki,Ilmu Komputer,3.17
+5. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+    1. Andi Gunawan
+    2. Leshi Puspitasari
+    3. Maximilianus Anthoni
+    4. Laki-Laki
+    5. Wanita
+6. Apakah pengertian dari Primary Key dan Candidate Key?
+    1. Primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel.
+    2. Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut. Selain tidak boleh ada data yang sama, kolom yang dikategorikan sebagai candidate key juga tidak boleh memiliki data kosong.
